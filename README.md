@@ -7,10 +7,10 @@ Engenheiro de Dados com sólida experiência em ambientes transacionais e analí
 Especialista em modelagem de dados (relacional e NoSQL), arquitetura de data warehouses e lakes, com forte foco em performance, governança e segurança da informação. Experiência em ambientes de nuvem e práticas DevOps. Habilidade comprovada na liderança de times técnicos, documentação de fluxos de dados e aplicação de boas práticas de engenharia de software. Reconhecido pela capacidade de resolução de problemas sob pressão e inteligência emocional em contextos desafiadores.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://github.com/danillobsoliveira/pipelines">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Pipelines" 
+            title="Projetos de Pipelines" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
