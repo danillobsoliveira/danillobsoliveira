@@ -47,8 +47,8 @@ Líder técnico com experiência na coordenação de equipes multidisciplinares,
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Azure"
+    title="Azure" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"          
@@ -67,7 +67,7 @@ Líder técnico com experiência na coordenação de equipes multidisciplinares,
     title="SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 <img 
     align="left" 
@@ -139,7 +139,7 @@ Líder técnico com experiência na coordenação de equipes multidisciplinares,
     title="Spark"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
 />
 <img 
     align="left" 
