@@ -2,9 +2,13 @@
 
 **`Engenheiro de Dados`**
 
-Engenheiro de Dados com sólida experiência em ambientes transacionais e analíticos, atuando no projeto e implementação de pipelines de ingestão, transformação e entrega de dados (batch e em tempo real). Domínio em processos ETL/ELT, orquestração de workflows com ferramentas como Airflow e dbt, além de integração de múltiplas fontes de dados e sistemas via mensageria e streaming (Kafka, Kinesis).
+Engenheiro de Dados com sólida experiência no projeto e implementação de pipelines para ingestão, transformação e entrega de dados em fluxos batch e em tempo real. Desde 2007, com vivência em ambientes transacionais e analíticos. Atualmente com foco em Microsoft Fabric e Databricks. Domina processos ETL/ELT, orquestração de workflows com ferramentas como Airflow e dbt, além de integração de múltiplas fontes de dados por mensageria e streaming (Kafka, Flink).
 
-Especialista em modelagem de dados (relacional e NoSQL), arquitetura de data warehouses e lakes, com forte foco em performance, governança e segurança da informação. Experiência em ambientes de nuvem e práticas DevOps. Habilidade comprovada na liderança de times técnicos, documentação de fluxos de dados e aplicação de boas práticas de engenharia de software. Reconhecido pela capacidade de resolução de problemas sob pressão e inteligência emocional em contextos desafiadores.
+Especialista em modelagem de dados (relacional e NoSQL), com sólida compreensão das arquiteturas modernas como Data Warehouse, Data Lake, Data Lakehouse, e suas aplicações no ciclo completo dos dados. Aplica princípios de Data Mesh para descentralização com governança e utiliza Data Vault para modelagens auditáveis e historizadas. Domina arquiteturas de processamento como Lambda e Kappa, além da abordagem Medallion (Bronze, Silver, Gold) para refino progressivo em ambientes analíticos.
+
+Atua com foco em performance, governança e segurança da informação, integrando práticas de CI/CD e IaC com Terraform e pipelines automatizados. Tem experiência sólida em observabilidade e monitoramento com Azure Monitor e soluções Open Source como ELK, Prometheus e Grafana. Em qualidade de dados, utiliza validações e testes automatizados com Great Expectations, garantindo rastreabilidade, confiabilidade e documentação dos fluxos.
+
+Líder técnico com experiência na coordenação de equipes multidisciplinares, promovendo colaboração, aprendizado contínuo e cultura de excelência. Reconhecido pela comunicação clara e pela habilidade de ensinar e documentar processos. Atua com inteligência emocional e foco em soluções mesmo sob pressão, mantendo alinhamento entre equipe, qualidade e prazos.
 
 <p align="left">
     <a href="https://github.com/danillobsoliveira/pipelines">
