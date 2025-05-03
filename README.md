@@ -2,13 +2,15 @@
 
 **`Engenheiro de Dados`**
 
-Engenheiro de Dados com sólida experiência no projeto e implementação de pipelines para ingestão, transformação e entrega de dados em fluxos batch e em tempo real. Desde 2007, com vivência em ambientes transacionais e analíticos. Atualmente com foco em Microsoft Fabric e Databricks. Domina processos ETL/ELT, orquestração de workflows com ferramentas como Airflow e dbt, além de integração de múltiplas fontes de dados por mensageria e streaming (Kafka, Flink).
+Muito prazer! Eu trabalho com engenharia de dados desde uma época em que "Big Data" ainda era só um termo novo surgindo por aí. De lá pra cá, mergulhei fundo no universo de dados e sigo com a mesma curiosidade e paixão por construir soluções eficientes, escaláveis e bem modeladas.
 
-Especialista em modelagem de dados (relacional e NoSQL), com sólida compreensão das arquiteturas modernas como Data Warehouse, Data Lake, Data Lakehouse, e suas aplicações no ciclo completo dos dados. Aplica princípios de Data Mesh para descentralização com governança e utiliza Data Vault para modelagens auditáveis e historizadas. Domina arquiteturas de processamento como Lambda e Kappa, além da abordagem Medallion (Bronze, Silver, Gold) para refino progressivo em ambientes analíticos.
+Hoje, meu foco está em Data Fabric, Databricks, Airflow, dbt, Kafka e outras ferramentas que tornam possível transformar dados brutos em valor real — de forma organizada, monitorada e governada. Curto especialmente desenhar pipelines que funcionem como relógios suíços, sejam em batch ou streaming, e que se integrem bem com múltiplas fontes e destinos.
 
-Atua com foco em performance, governança e segurança da informação, integrando práticas de CI/CD e IaC com Terraform e pipelines automatizados. Tem experiência sólida em observabilidade e monitoramento com Azure Monitor e soluções Open Source como ELK, Prometheus e Grafana. Em qualidade de dados, utiliza validações e testes automatizados com Great Expectations, garantindo rastreabilidade, confiabilidade e documentação dos fluxos.
+Tenho um carinho especial por modelagem de dados (relacional, NoSQL, Data Vault), e acredito que uma boa arquitetura começa com uma estrutura sólida. Gosto de pensar o ciclo completo: da ingestão ao consumo, da qualidade à rastreabilidade, sempre com foco em performance e segurança.
 
-Líder técnico com experiência na coordenação de equipes multidisciplinares, promovendo colaboração, aprendizado contínuo e cultura de excelência. Reconhecido pela comunicação clara e pela habilidade de ensinar e documentar processos. Atua com inteligência emocional e foco em soluções mesmo sob pressão, mantendo alinhamento entre equipe, qualidade e prazos.
+Além do lado técnico, também dedico tempo à análise de código, revisão de PRs, mentoring e à construção de times que compartilham conhecimento. Documentar, ensinar e facilitar o trabalho do próximo dev são partes importantes do meu dia a dia.
+
+Se você também acredita que dados precisam ser confiáveis, bem modelados e acessíveis — e que um bom pipeline é quase uma obra de arte —, a gente já tem bastante coisa em comum.
 
 ---
 
