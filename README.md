@@ -10,37 +10,6 @@ Atua com foco em performance, governança e segurança da informação, integran
 
 Líder técnico com experiência na coordenação de equipes multidisciplinares, promovendo colaboração, aprendizado contínuo e cultura de excelência. Reconhecido pela comunicação clara e pela habilidade de ensinar e documentar processos. Atua com inteligência emocional e foco em soluções mesmo sob pressão, mantendo alinhamento entre equipe, qualidade e prazos.
 
-<p align="left">
-    <a href="https://github.com/danillobsoliveira/projetos">
-        <img 
-            alt="Projetos" 
-            title="Projetos" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Projetos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://github.com/danillobsoliveira/arquiteturas>
-        <img 
-            alt="Modelagens" 
-            title="Modelagens" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/danillobsoliveira/códigos">
-        <img 
-            alt="Codigos" 
-            title="Códigos" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/danillobsoliveira">
-        <img 
-            alt="LinkedIn" 
-            title="Me siga no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
