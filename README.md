@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Danillo Oliveira
+# 🧑🏽‍💻 Danillo Oliveira
 
 **`Engenheiro de Dados`**
 
