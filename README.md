@@ -1,38 +1,33 @@
 # 🧑🏽‍💻 Danillo Oliveira
 
-🌐 Language: [English](#english) | [Português](#português) | [Español](#español)
+**`Data Engineer in a Structured Transition`**
 
-#english
-<details open>
-<summary>Click to expand</summary>
-**`Engenheiro de Dados em transição estruturada`**
-ingles
-Muito prazer! Sou profissional de dados desde 2007, com vivência em ambientes de BI, liderança de times comerciais orientados por dados, e projetos técnicos com bancos relacionais, SQL e automações.
+Hello! I am a data professional with experience dating back to 2007, having worked extensively in BI environments, leading data-driven commercial teams, and delivering technical projects involving relational databases, SQL, and automation.
 
-Atualmente, estou em **transição estruturada para Engenharia de Dados moderna**, estudando com profundidade as ferramentas do ecossistema Microsoft (Fabric, Synapse, Purview), além de **Databricks, Kafka, dbt, Spark, Airflow e CI/CD para dados**. Meu objetivo é construir pipelines confiáveis, auditáveis e escaláveis — que funcionem como relógios suíços, sejam em batch ou streaming.
+I am currently undergoing a **structured transition into modern Data Engineering**, deeply studying tools within the Microsoft ecosystem (Fabric, Synapse, Purview), as well as **Databricks, Kafka, dbt, Spark, Airflow, and data CI/CD pipelines**. My goal is to design and build reliable, auditable, and scalable data pipelines—engineered to run as precisely as Swiss watches, whether batch or streaming.
 
-Tenho especial interesse por **modelagem de dados (dimensional, Data Vault e 3FN)** e pela arquitetura completa de soluções: da ingestão ao consumo, da rastreabilidade à qualidade. Acredito que dados precisam ser confiáveis, bem modelados e acessíveis para gerarem valor real.
+I have a strong interest in **data modeling (dimensional, Data Vault, and 3rd Normal Form)** and in the end-to-end architecture of data solutions: from ingestion to consumption, including traceability and data quality. I firmly believe that data must be trustworthy, well-modeled, and easily accessible to generate true business value.
 
-Além da parte técnica, valorizo **boas práticas de versionamento, documentação e colaboração entre devs**. Gosto de revisar PRs, ajudar colegas, montar padrões reutilizáveis e construir times que compartilham conhecimento.
+Beyond the technical skills, I place high value on **best practices for version control, documentation, and cross-team collaboration**. I enjoy reviewing pull requests, supporting colleagues, establishing reusable standards, and building teams that foster knowledge sharing.
 
 ---
 
-### 🚀 Portfólio em construção
+### 🚀 Portfolio in Progress
 
-Estou desenvolvendo uma série de projetos públicos com foco em engenharia moderna, usando boas práticas desde a ingestão até a visualização:
+I am developing a series of public projects focused on modern data engineering, applying best practices from data ingestion through to visualization:
 
-- 🏗️ **Data Lakehouse para vendas multinível** com ingestão em camadas (Bronze/Silver/Gold), Power BI e Fabric  
-- 🔄 **Pipeline de reposição de estoque em tempo real** com Spark Streaming + Azure Functions  
-- 🔍 **Monitoramento de qualidade de dados com dbt + GitHub Actions**  
-- 📊 **Painéis executivos com DAX otimizado, Tabular Editor e ALM Toolkit**  
-- 📚 **Catálogo de dados governado com Azure Purview**
+- 🏗️ **Multilevel Sales Data Lakehouse** with layered ingestion (Bronze/Silver/Gold), Power BI, and Microsoft Fabric  
+- 🔄 **Real-time Inventory Replenishment Pipeline** using Spark Streaming and Azure Functions  
+- 🔍 **Data Quality Monitoring with dbt and GitHub Actions**  
+- 📊 **Executive Dashboards leveraging optimized DAX, Tabular Editor, and ALM Toolkit**  
+- 📚 **Governed Data Catalog with Azure Purview**
 
-📌 Repositórios em progresso: [github.com/danillobsoliveira](https://github.com/danillobsoliveira)  
-🎯 Publicações semanais com foco didático e valor real para times de dados
+📌 Repositories in progress: [github.com/danillobsoliveira](https://github.com/danillobsoliveira)  
+🎯 Weekly posts focused on educational content and delivering real value to data teams
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
 <img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
@@ -49,56 +44,3 @@ Estou desenvolvendo uma série de projetos públicos com foco em engenharia mode
 
 <br/>
 <br/>
-</details>
-
-#português
-<details open>
-<summary>Click to expand</summary>
-**`Engenheiro de Dados em transição estruturada`**
-
-Muito prazer! Sou profissional de dados desde 2007, com vivência em ambientes de BI, liderança de times comerciais orientados por dados, e projetos técnicos com bancos relacionais, SQL e automações.
-
-Atualmente, estou em **transição estruturada para Engenharia de Dados moderna**, estudando com profundidade as ferramentas do ecossistema Microsoft (Fabric, Synapse, Purview), além de **Databricks, Kafka, dbt, Spark, Airflow e CI/CD para dados**. Meu objetivo é construir pipelines confiáveis, auditáveis e escaláveis — que funcionem como relógios suíços, sejam em batch ou streaming.
-
-Tenho especial interesse por **modelagem de dados (dimensional, Data Vault e 3FN)** e pela arquitetura completa de soluções: da ingestão ao consumo, da rastreabilidade à qualidade. Acredito que dados precisam ser confiáveis, bem modelados e acessíveis para gerarem valor real.
-
-Além da parte técnica, valorizo **boas práticas de versionamento, documentação e colaboração entre devs**. Gosto de revisar PRs, ajudar colegas, montar padrões reutilizáveis e construir times que compartilham conhecimento.
-
----
-
-### 🚀 Portfólio em construção
-
-Estou desenvolvendo uma série de projetos públicos com foco em engenharia moderna, usando boas práticas desde a ingestão até a visualização:
-
-- 🏗️ **Data Lakehouse para vendas multinível** com ingestão em camadas (Bronze/Silver/Gold), Power BI e Fabric  
-- 🔄 **Pipeline de reposição de estoque em tempo real** com Spark Streaming + Azure Functions  
-- 🔍 **Monitoramento de qualidade de dados com dbt + GitHub Actions**  
-- 📊 **Painéis executivos com DAX otimizado, Tabular Editor e ALM Toolkit**  
-- 📚 **Catálogo de dados governado com Azure Purview**
-
-📌 Repositórios em progresso: [github.com/danillobsoliveira](https://github.com/danillobsoliveira)  
-🎯 Publicações semanais com foco didático e valor real para times de dados
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
-<img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-<img align="left" alt="Airflow" title="Airflow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"/>
-<img align="left" alt="Kafka" title="Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>
-<img align="left" alt="Terraform" title="Terraform" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
-<img align="left" alt="Cassandra" title="Cassandra" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg"/>
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="Spark" title="Spark" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<br/>
-<br/>
-</details>
-
-
-
