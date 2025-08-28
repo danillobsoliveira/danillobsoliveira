@@ -1,51 +1,41 @@
 # 🧑🏽‍💻 Danillo Oliveira
 
-**`Data Engineer in a Structured Transition`**
+**`Data Engineer`**
 
-Hello! I am a data professional with experience dating back to 2007, having worked extensively in BI environments, leading data-driven commercial teams, and delivering technical projects involving relational databases, SQL, and automation.
+Hello! I am a data professional with a career starting in 2007, having worked in both technical roles (DBA, pipelines, BI) and commercial leadership. Today, I am undergoing a structured transition into modern Data Engineering, combining my hands-on experience with advanced studies in Microsoft Fabric, Azure, Databricks, Kafka, Spark, Airflow, dbt, and DataOps.  
 
-I am currently undergoing a **structured transition into modern Data Engineering**, deeply studying tools within the Microsoft ecosystem (Fabric, Synapse, Purview), as well as **Databricks, Kafka, dbt, Spark, Airflow, and data CI/CD pipelines**. My goal is to design and build reliable, auditable, and scalable data pipelines—engineered to run as precisely as Swiss watches, whether batch or streaming.
+My goal is to design and implement **scalable, reliable, and auditable data pipelines** — true "Swiss watches" of data engineering — whether in batch or streaming processes.  
 
-I have a strong interest in **data modeling (dimensional, Data Vault, and 3rd Normal Form)** and in the end-to-end architecture of data solutions: from ingestion to consumption, including traceability and data quality. I firmly believe that data must be trustworthy, well-modeled, and easily accessible to generate true business value.
-
-Beyond the technical skills, I place high value on **best practices for version control, documentation, and cross-team collaboration**. I enjoy reviewing pull requests, supporting colleagues, establishing reusable standards, and building teams that foster knowledge sharing.
+I believe that data only has value when it is **trustworthy, well-modeled, and accessible**. That is why I strive to combine **best practices in data modeling (Dimensional, Data Vault, 3NF)**, **data governance (Purview, RBAC, LGPD/GDPR)**, and **modern tools for version control and CI/CD**, in order to deliver consistent solutions with real business impact.  
 
 ---
 
-### 🚀 Portfolio in Progress
+## 🎓 Certifications (in progress)
 
-I am currently developing the following projects, applying modern data engineering best practices. Each project includes an estimated delivery date and a link to the respective GitHub repository:
-
-- 📊 **Executive Analytics Dashboards with Microsoft Fabric and Power BI**  
-  Development of executive dashboards focused on performance, using semantic modeling, KPIs, and optimized queries for large data volumes.  
-  Technologies: Power BI, Microsoft Fabric, DAX, Tabular Editor, ALM Toolkit, DAX Studio  
-  **Estimated delivery:** November 15, 2025  
-  🔗 [GitHub Repository](https://github.com/danillobsoliveira/executive-analytics-fabric-powerbi)
-
-- 🏗️ **Enterprise Multilevel Sales Data Lakehouse**  
-  Simulation of a real-world multilevel sales environment (distributors, resellers, targets, repurchases) and construction of a complete Data Lakehouse — from raw data ingestion to visualization in Power BI.  
-  Technologies: Python, SQL, Azure Data Factory, Microsoft Fabric, Power BI  
-  **Estimated delivery:** September 30, 2025  
-  🔗 [GitHub Repository](https://github.com/danillobsoliveira/enterprise-multilevel-sales-datalakehouse)
-
-- 🔄 **Real-Time Inventory Forecasting and Replenishment Pipeline**  
-  Development of a continuous inventory monitoring system with real-time alerts based on consumption, historical trends, and seasonality.  
-  Technologies: Kafka, Azure Event Hubs, Spark Streaming, Azure Synapse, Power BI Streaming, Azure Functions  
-  **Estimated delivery:** October 15, 2025  
-  🔗 [GitHub Repository](https://github.com/danillobsoliveira/real-time-inventory-forecasting-replenishment)
-
-- 📚 **Enterprise Data Governance & Catalog with Azure Purview**  
-  Development of a unified data catalog integrating technical and business metadata to democratize data access and usage across the organization.  
-  Technologies: Azure Purview, Microsoft Fabric, Azure SQL, KQL, RBAC, Power BI  
-  **Estimated delivery:** November 30, 2025  
-  🔗 [GitHub Repository](https://github.com/danillobsoliveira/enterprise-data-governance-catalog)
-
-📌 Repositories in progress: [github.com/danillobsoliveira](https://github.com/danillobsoliveira)  
-🎯 Weekly posts focused on educational content and delivering real value to data teams
+- **DP-600**: Fabric Analytics Engineer Associate *(expected Aug 2025)*  
+- **DP-700**: Fabric Data Engineer Associate *(expected Sep 2025)*  
+- **AZ-900**: Azure Fundamentals *(expected Oct 2025)*  
+- **DP-900**: Azure Data Fundamentals *(expected Nov 2025)*
 
 ---
 
-### 🤖 Languages and Technologies
+## 🛠️ Skills & Technologies  
+
+| **Category**            | **Technologies**                                                                 |
+|--------------------------|----------------------------------------------------------------------------------|
+| **Data Platforms**       | Microsoft Fabric, Azure Synapse, Databricks, Snowflake                           |
+| **ETL/ELT & Orchestration** | dbt, Apache Airflow, Synapse Pipelines, Azure Data Factory                     |
+| **Streaming**            | Apache Kafka, Azure Event Hubs, Spark Streaming                                  |
+| **Languages**            | SQL (advanced), Python, PySpark, DAX, Power Query M, KQL                         |
+| **Data Modeling**        | Dimensional (Star Schema), Data Vault, 3rd Normal Form (3NF)                     |
+| **Databases**            | SQL Server, Azure SQL, MySQL, PostgreSQL, MongoDB, Cassandra                     |
+| **Governance & Security**| Azure Purview, RBAC, Data Catalogs, LGPD/GDPR compliance                         |
+| **DevOps / DataOps**     | Git, GitHub Actions (CI/CD), modular pipelines, automated testing                 |
+| **BI & Visualization**   | Power BI, DAX Studio, Tabular Editor, VertiPaq Analyzer                          |
+
+---
+
+## 🤖 Languages and Technologies
 
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
 <img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
@@ -59,6 +49,3 @@ I am currently developing the following projects, applying modern data engineeri
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="Spark" title="Spark" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<br/>
-<br/>
