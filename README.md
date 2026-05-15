@@ -1,53 +1,65 @@
-# 🧑🏽‍💻 Danillo Oliveira  
-**Data Engineer | Azure & Microsoft Fabric | Lakehouse Architectures**
+# 👨🏽‍💻 Danillo Oliveira  
+### Engenheiro de Dados Senior | Microsoft Fabric • Azure • Databricks
 
-Data Engineer with a career starting in 2007, combining strong foundations in **SQL, ETL/ELT, and data modeling** with modern **Lakehouse architectures**.
-
-Currently focused on **Microsoft Fabric and Azure**, designing and implementing **scalable, reliable, and auditable data pipelines**, using **PySpark, SQL, Delta tables, and Medallion architecture (Bronze, Silver, Gold)**.
-
-My background spans from **hands-on technical roles (DBA, ETL, BI)** to **business-oriented analytics**, allowing me to translate business needs into well-modeled, production-ready analytical solutions.
-
----
-
-## 🚀 Core Focus Areas
-
-- End-to-end **Lakehouse architectures** (Fabric / Azure)
-- **Batch and streaming pipelines**
-- **Dimensional modeling (Star Schema)** and **3NF**
-- Data quality, versioning, and historical tracking (**SCD Type 2 / Delta Time Travel**)
-- Analytics-ready semantic models for **Power BI**
+<p align="left">
+  <img src="https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DP--600-5E5ADB?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DP--700-5E5ADB?style=flat-square&logo=microsoft&logoColor=white"/>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+Engenheiro de Dados com trajetória iniciada em **2007**, atuando desde ambientes **SQL Server e ETL tradicionais** até arquiteturas modernas de **Lakehouse em Microsoft Fabric, Azure e Databricks**.
 
-**Data Platforms:**  
-Microsoft Fabric, Azure Synapse, Databricks  
+Especialista em construção de plataformas analíticas escaláveis utilizando **PySpark, Spark, Delta Lake, modelagem dimensional e arquitetura Medallion (Bronze • Silver • Gold)**.
 
-**Processing & Orchestration:**  
-PySpark, Apache Spark, Fabric Pipelines, Airflow  
-
-**Languages:**  
-SQL (Advanced), Python, PySpark, DAX  
-
-**Data Modeling:**  
-Dimensional (Star Schema), 3NF, Medallion Architecture  
-
-**Governance & DevOps:**  
-Git, CI/CD (GitHub Actions – studies), RBAC  
-
-**BI:**  
-Power BI, DAX Studio, Tabular Editor  
+Experiência prática em projetos **end-to-end**, incluindo ingestão, transformação, modelagem, governança, observabilidade e consumo analítico com Power BI.
 
 ---
 
-## 🎓 Certifications
+## ⚡ Stack Principal
 
-- DP-600 – Microsoft Fabric Analytics Engineer Associate  
-- DP-900 – Azure Data Fundamentals  
-- AZ-900 – Azure Fundamentals  
+**Cloud & Dados**  
+Microsoft Fabric • Azure • Databricks • Synapse • ADLS
+
+**Engenharia de Dados**  
+PySpark • Spark • SQL • Python • Airflow • dbt
+
+**Arquitetura & Modelagem**  
+Lakehouse • Medallion • Star Schema • SCD2 • Delta Lake
+
+**Analytics & DevOps**  
+Power BI • DAX • Git • Docker • Azure DevOps • CI/CD
 
 ---
 
-📫 **Contact**  
+## 🚀 Projetos em Destaque
+
+### 🔷 Fabric Lakehouse Medallion  
+Arquitetura analítica end-to-end no Microsoft Fabric utilizando Medallion Architecture, Delta Lake, PySpark e modelagem dimensional.
+
+**Stack:** Fabric • PySpark • Delta Lake • Power BI  
+🔗 github.com/danillobsoliveira/fabric-lakehouse-medallion
+
+---
+
+### 🔷 Medallion On-Premise com Airflow  
+Pipeline analítico on-premise com ingestão incremental, orquestração Apache Airflow e observabilidade operacional.
+
+**Stack:** Python • Airflow • SQL Server • Docker  
+🔗 github.com/danillobsoliveira/medallion-onpremise-airflow
+
+---
+
+### 🔷 Migração Analítica para Azure  
+Projeto de modernização de ambiente on-premise para arquitetura analítica Azure com IaC e governança.
+
+**Stack:** Azure Data Factory • Synapse • Terraform  
+🔗 github.com/danillobsoliveira/medallion-azure-migration
+
+---
+
+## 📫 Contato
+
 [LinkedIn](https://linkedin.com/in/danillobsoliveira)
