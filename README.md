@@ -40,7 +40,7 @@ Power BI • DAX • Git • Docker • Azure DevOps • CI/CD
 Arquitetura analítica end-to-end no Microsoft Fabric utilizando Medallion Architecture, Delta Lake, PySpark e modelagem dimensional.
 
 **Stack:** Fabric • PySpark • Delta Lake • Power BI  
-🔗 github.com/danillobsoliveira/fabric-lakehouse-medallion
+🔗 [github.com/danillobsoliveira/fabric-lakehouse-medallion](https://github.com/danillobsoliveira/fabric-lakehouse-medallion)
 
 ---
 
@@ -48,7 +48,7 @@ Arquitetura analítica end-to-end no Microsoft Fabric utilizando Medallion Archi
 Pipeline analítico on-premise com ingestão incremental, orquestração Apache Airflow e observabilidade operacional.
 
 **Stack:** Python • Airflow • SQL Server • Docker  
-🔗 github.com/danillobsoliveira/medallion-onpremise-airflow
+🔗 [github.com/danillobsoliveira/medallion-onpremise-airflow](https://github.com/danillobsoliveira/medallion-onpremise-airflow)
 
 ---
 
@@ -56,10 +56,12 @@ Pipeline analítico on-premise com ingestão incremental, orquestração Apache 
 Projeto de modernização de ambiente on-premise para arquitetura analítica Azure com IaC e governança.
 
 **Stack:** Azure Data Factory • Synapse • Terraform  
-🔗 github.com/danillobsoliveira/medallion-azure-migration
+🔗 [github.com/danillobsoliveira/medallion-azure-migration](https://github.com/danillobsoliveira/medallion-azure-migration)
 
 ---
 
 ## 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/danillobsoliveira)
+- 💼 [LinkedIn](https://linkedin.com/in/danillobsoliveira)
+- 📧 danillobsoliveira@gmail.com
+- 📱 WhatsApp: +55 98404-5988
