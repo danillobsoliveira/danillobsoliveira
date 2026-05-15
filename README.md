@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Danillo Oliveira  
-### Engenheiro de Dados Senior | Microsoft Fabric • Azure • Databricks
+### Engenheiro de Dados Senior | Microsoft Fabric • Azure
 
 <p align="left">
   <img src="https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
